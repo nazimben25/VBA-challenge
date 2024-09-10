@@ -5,7 +5,7 @@ Output for challenge module 2 (VBA) - UoT
 
 # IMPORTANT : User must launch sub (Allsheets)
 
-#   A) First one (Allsheets) it will select every Worksheet in the Workbook, and will apply (call) the second sub
+#   A) First one (Allsheets) will select every Worksheet in the Workbook, and will apply (call) the second sub
 #        * the code can be used whether the workbook has 1 or N sheets
 #    B) the second sub (vbachallenge) will perform all the needed transformation and calculation
 #
