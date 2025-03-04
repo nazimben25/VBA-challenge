@@ -1,6 +1,8 @@
 # VBAchallenge_mywork (nazim bendjaballah)
 Output for challenge module 2 (VBA) - UoT
 
+Use VBA scripting to analyze generated stock market data
+
 # This code includes 2 subs
 
 # IMPORTANT : User must launch sub (Allsheets)
