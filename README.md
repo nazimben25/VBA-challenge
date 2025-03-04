@@ -1,4 +1,4 @@
-Use VBA scripting to analyze generated stock market data
+# Use VBA scripting to analyze generated stock market data
 
 Output for challenge module 2 (VBA) - UoT
 
